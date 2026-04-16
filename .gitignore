@@ -1,0 +1,4 @@
+# Ignore any other sensitive folders or files
+*.log
+*.tmp
+*.xml
